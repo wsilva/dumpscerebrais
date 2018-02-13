@@ -7,14 +7,17 @@ theme = "mainroad"
 disqusShortname = "dumpscerebrais" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tracking id
 
+[permalinks]
+    post = "/:year/:month/:slug"
+
 [Author] # Used in authorbox
     name = "Wellington F. Silva"
     bio = "Conhecido como Boina, Tom e Wsilva entre outros apelidos. Possui certificações Docker Certified Associate e ZCE PHP 5.3, autor do livro Aprendendo Docker, do básico à orquestração de contêineres publicado pela editora Novatec. Docker community leader em São Paulo, tem background em telecomunicaçõeses, programação, VoIP, Linux e infraestrutura."
-    avatar = "img/avatar.png"
+    avatar = "assets/images/tom-palestra.jpg"
 
 [Params]
-    subtitle = "Dumps Cerebrais" # Subtitle of your site. Used in site header
-    description = " Para backups de coisas que costumo esquecer" # Description of your site. Used in meta description
+    subtitle = " Para backups de coisas que costumo esquecer" # Subtitle of your site. Used in site header
+    description = " Blog pessoal com textos principalmente sobre tecnologia. Infraestrutura, programação, automação, ferramentas." # Description of your site. Used in meta description
     opengraph = true # Enable OpenGraph if true
     readmore = true # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
@@ -22,7 +25,8 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     post_navigation = true # Show post navigation at bottom of pages if true
     postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
     #postSections = ["blog", "news"] # alternative that shows more than one section's pages
-    dateformat = "2006-01-02" # change the format of dates
+    # dateformat = "2006-01-02" # change the format of dates
+    dateformat = "02/jan/2006" # change the format of dates
 
 [Params.widgets]
     search = true # Enable "Search" widget
