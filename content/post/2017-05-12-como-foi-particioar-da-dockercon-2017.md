@@ -1,6 +1,6 @@
 +++
 date = "2017-05-13T08:57:50-03:00"
-draft = false
+draft = true
 slug = "como-foi-participar-da-dockercon-2017"
 categories = ["Tecnologia"]
 tags = ["Docker","Conference","Moby","Linuxkit","Evento"]
