@@ -1,3 +1,42 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "/"
+title = "Dumps Cerebrais"
+# languageCode = "en-us"
+languageCode = "pt-br"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "dumpscerebrais" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+    name = "Wellington F. Silva"
+    bio = "Conhecido como Boina, Tom e Wsilva entre outros apelidos. Possui certificações Docker Certified Associate e ZCE PHP 5.3, autor do livro Aprendendo Docker, do básico à orquestração de contêineres publicado pela editora Novatec. Docker community leader em São Paulo, tem background em telecomunicaçõeses, programação, VoIP, Linux e infraestrutura."
+    avatar = "img/avatar.png"
+
+[Params]
+    subtitle = "Dumps Cerebrais" # Subtitle of your site. Used in site header
+    description = " Para backups de coisas que costumo esquecer" # Description of your site. Used in meta description
+    opengraph = true # Enable OpenGraph if true
+    readmore = true # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true # Show authorbox at bottom of pages if true
+    post_navigation = true # Show post navigation at bottom of pages if true
+    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+    dateformat = "2006-01-02" # change the format of dates
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "silva.tom"
+    social_twitter = "_wsilva"
+    social_instagram = "_wsilva"
+    social_linkedin = "wfsilva"
+    social_github = "wsilva"
+    social_email = "wsilva@usp.br"
+    social_google_plus = "+WellingtonFigueiraSilva"
