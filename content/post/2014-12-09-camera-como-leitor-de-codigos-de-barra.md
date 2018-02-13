@@ -1,7 +1,7 @@
 +++
 title = "Camera como leitor de código de barras"
 slug = "camera-como-leitor-de-codigos-de-barra"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Webcam","Camera","Código de Barras","Zbar","Crikey"]
 date = "2014-12-09T12:10:00-03:00"
 +++

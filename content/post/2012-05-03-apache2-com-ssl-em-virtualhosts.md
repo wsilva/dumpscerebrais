@@ -1,6 +1,6 @@
 +++
 title = "Apache2 com SSL em VirtualHosts"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","Fedora","Linux","PHP","SSL","VirtualHost"]
 date = "2012-05-03T20:29:00-03:00"
 +++

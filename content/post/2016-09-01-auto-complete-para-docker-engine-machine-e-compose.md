@@ -2,7 +2,7 @@
 date = "2016-09-01T03:36:49-03:00"
 draft = false
 slug = ""
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Bash","Docker", "Machine", "Compose", "Auto-complete"]
 title = "Auto complete para Docker Engine, Machine e Compose"
 +++

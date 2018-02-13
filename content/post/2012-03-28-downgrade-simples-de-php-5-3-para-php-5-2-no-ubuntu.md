@@ -1,7 +1,7 @@
 +++
 title = "Downgrade simples de PHP 5.3 para PHP 5.2 no Ubuntu"
 slug = "downgrade-simples-de-php-5-3-para-php-5-2-no-ubuntu"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Downgrade","Karmic","Linux","PHP","Ubuntu"]
 date = "2012-03-28T00:15:00-03:00"
 +++

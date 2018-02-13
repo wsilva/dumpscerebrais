@@ -1,6 +1,6 @@
 +++
 title = "Como melhorar a segurança do seu servidor na internet"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Servidor","Web","Internet","Segurança"]
 date = "2015-03-01T05:20:00-03:00"
 draft = true

@@ -1,9 +1,8 @@
 +++
-categories = [""]
 date = "2016-08-08T06:04:40-03:00"
 draft = false
 slug = ""
-categorias = ["curiosidades"]
+categories = ["curiosidades"]
 tags = ["PHP", "Palestra", "Comunidade"]
 title = "Um ano de PHP Day Uruguai"
 

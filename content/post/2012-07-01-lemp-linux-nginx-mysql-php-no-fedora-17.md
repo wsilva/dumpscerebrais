@@ -1,7 +1,7 @@
 +++
 title = "LEMP (Linux + Nginx + MySQL + PHP) no Fedora 17"
 slug = "lemp-linux-nginx-mysql-php-no-fedora-17"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","Fedora","LAMP","LEMP","Linux","MySQL","Nginx","PHP","VirtualHost"]
 date = "2012-07-01T22:27:00-03:00"
 +++

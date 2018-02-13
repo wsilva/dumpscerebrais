@@ -1,7 +1,7 @@
 +++
 title = "Android 4.0.4 no Xperia Arc fácil fácil"
 slug = "android-4-0-4-no-xperia-arc-facil-facil"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Android","FlashTool","Linux"]
 date = "2012-09-07T16:33:00-03:00"
 +++

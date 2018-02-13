@@ -1,7 +1,7 @@
 +++
 title = "PHP com Notices? Warnings? pode ser o output_buffering..."
 slug = "php-com-notices-warnings-pode-ser-o-output_buffering"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Erros","PHP"]
 date = "2012-04-14T22:52:00-03:00"
 +++

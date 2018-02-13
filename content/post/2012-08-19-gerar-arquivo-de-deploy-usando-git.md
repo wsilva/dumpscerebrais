@@ -1,6 +1,6 @@
 +++
 title = "Gerar arquivo de deploy usando Git"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Deploy","Git"]
 date = "2012-08-19T10:50:00-03:00"
 +++

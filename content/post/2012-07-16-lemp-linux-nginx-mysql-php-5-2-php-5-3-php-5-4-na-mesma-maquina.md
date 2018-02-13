@@ -1,7 +1,7 @@
 +++
 title = "LEMP (Linux + Nginx + MySQL + PHP 5.2 + PHP 5.3 + PHP 5.4) na mesma máquina."
 slug = "lemp-linux-nginx-mysql-php-5-2-php-5-3-php-5-4-na-mesma-maquina"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["APC","Fastcgi","Fedora","LEMP","Linux","Memcache","MySQL","Nginx","PHP","Stemmer","Xdebug","Zend"]
 date = "2012-07-16T18:32:00-03:00"
 +++

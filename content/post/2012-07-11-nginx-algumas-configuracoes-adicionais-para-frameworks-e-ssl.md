@@ -1,6 +1,6 @@
 +++
 title = "Nginx: algumas configurações adicionais para frameworks e SSL"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Codeigniter","Fastcgi","Fedora","Framework","LEMP","Linux","Nginx","PHP","SSL","Xdebug","Zend"]
 date = "2012-07-11T20:02:00-03:00"
 +++

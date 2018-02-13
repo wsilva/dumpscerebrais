@@ -1,6 +1,6 @@
 +++
 title = "Ruby on Rails rodando no Apache com Passenger"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","Fedora","Linux","Passenger","Rails","Ruby","RVM"]
 date = "2012-04-22T09:04:00-03:00"
 +++

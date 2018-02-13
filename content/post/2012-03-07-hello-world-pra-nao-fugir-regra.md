@@ -1,7 +1,7 @@
 +++
 title = "Hello World pra não fugir a regra"
 slug = "hello-world-pra-nao-fugir-regra"
-categorias = ["Curiosidades"]
+categories = ["Curiosidades"]
 tags = ["hello-world","developer","blogger"]
 date = "2012-03-07T19:32:00-03:00"
 +++

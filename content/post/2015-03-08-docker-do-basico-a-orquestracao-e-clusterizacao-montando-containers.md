@@ -1,7 +1,7 @@
 +++
 title = "Docker, do Básico a Orquestração e Clusterização - 3. Montando containers"
 slug="docker-do-basico-a-orquestracao-e-clusterizacao-montando-containers"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Build"]
 date = "2015-03-07T23:57:00-03:00"
 +++

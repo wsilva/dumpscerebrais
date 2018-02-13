@@ -1,7 +1,7 @@
 +++
 title = "Olá Mundo v2, agora com jekyll e github pages"
 slug = "ola-mundo-agora-com-jekyll-e-github-pages"
-categorias = ["Curiosidades"]
+categories = ["Curiosidades"]
 tags = ["blog","github","jekyll","html","css","hello-world"]
 date = "2014-12-08T22:00:00-03:00"
 +++

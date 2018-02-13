@@ -1,7 +1,7 @@
 +++
 title = "PHP 5.2 x PHP 5.3 na mesma máquina com xdebug e virtualbox"
 slug = "php-52-x-php-53-na-mesma-maquina-com"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Developer","Linux","PHP","SSH","Virtual Box","Xdebug"]
 date = "2012-03-10T12:02:00-03:00"
 +++

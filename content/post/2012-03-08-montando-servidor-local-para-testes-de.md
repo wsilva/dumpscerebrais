@@ -1,7 +1,7 @@
 +++
 title = "Montando servidor local para testes de SSL"
 slug = "montando-servidor-local-para-testes-de"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","Developer","Linux","PHP","SSL","Ubuntu"]
 date = "2012-03-08T21:10:00-03:00"
 +++

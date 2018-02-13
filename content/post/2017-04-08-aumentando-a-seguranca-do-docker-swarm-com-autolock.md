@@ -2,7 +2,7 @@
 date = "2017-04-08T08:57:50-03:00"
 draft = false
 slug = "aumentando-a-seguranca-do-docker-swarm-com-autolock"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Docker","Swarm","Autolock","Secret","Segurança"]
 title = "Aumentando a segurança do Docker Swarm com Auto Lock"
 +++

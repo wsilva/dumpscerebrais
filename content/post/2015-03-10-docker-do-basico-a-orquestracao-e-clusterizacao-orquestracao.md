@@ -1,7 +1,7 @@
 +++
 title = "Docker, do Básico a Orquestração e Clusterização - 4. Orquestração"
 slug = "docker-do-basico-a-orquestracao-e-clusterizacao-orquestracao"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Fig","Build"]
 date = "2015-03-10T05:48:00-03:00"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Nginx não repassa os parâmetros query string para o framework"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Nginx","Framework"]
 date = "2012-08-23T23:56:00-03:00"
 +++

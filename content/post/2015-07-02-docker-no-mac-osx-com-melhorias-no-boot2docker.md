@@ -1,6 +1,6 @@
 +++
 title = "Docker no Mac OSX com melhorias no Boot2docker"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Mac","OSX","Virtualbox","Docker","Conteiner","Boot2docker","Machine"]
 date = "2015-07-02T05:20:00-03:00"
 +++

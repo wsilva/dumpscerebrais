@@ -1,7 +1,7 @@
 +++
 title = "Versões de PHP diferente em cada virtual host na mesma máquina."
 slug = "versoes-de-php-diferente-em-cada-virtual-host-na-mesma-maquina"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","APC","Developer","Fastcgi","Fedora","Linux","Memcache","PHP","VirtualHost","Xdebug"]
 date = "2012-03-28T22:46:00-03:00"
 +++

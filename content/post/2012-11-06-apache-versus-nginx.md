@@ -1,6 +1,6 @@
 +++
 title = "Apache versus Nginx"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Apache","Fastcgi","LAMP","LEMP","Nginx","PHP","Benchmark"]
 date = "2012-11-06T00:46:00-03:00"
 +++

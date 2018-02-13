@@ -1,7 +1,8 @@
 +++
 date = "2016-07-22T05:32:16-03:00"
 title = "Olá Mundo v3, agora com Hugo"
-categorias = ["curiosidades"]
+slug = "ola-mundo-v3-agora-com-hugo"
+categories = ["curiosidades"]
 tags = ["intro","hello-world","golang","hugo","blog","github","jekyll","html","css"]
 +++
 

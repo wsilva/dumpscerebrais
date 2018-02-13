@@ -1,6 +1,6 @@
 +++
 title = "Consumindo Google Plus API"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Google Plus","PHP"]
 date = "2012-07-25T09:59:00-03:00"
 +++

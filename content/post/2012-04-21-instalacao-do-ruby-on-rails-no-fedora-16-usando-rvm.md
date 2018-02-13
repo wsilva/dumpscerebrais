@@ -1,6 +1,6 @@
 +++
 title = "Instalação do Ruby on Rails no Fedora 16 usando RVM"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Fedora","Gems","Instalação","Linux","Rails","Ruby","RVM"]
 date = "2012-04-21T19:09:00-03:00"
 +++

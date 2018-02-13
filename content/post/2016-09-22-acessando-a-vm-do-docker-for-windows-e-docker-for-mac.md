@@ -2,7 +2,7 @@
 date = "2016-09-22T23:22:49-03:00"
 draft = false
 slug = ""
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Docker","Microsoft","Windows","Mac","OS X","Nativo", "Xhyve","Hyper-V","VM","Debug"]
 title = "Acessando a VM do Docker for Windows e Docker For Mac"
 +++

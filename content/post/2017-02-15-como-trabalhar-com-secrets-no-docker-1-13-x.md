@@ -2,7 +2,7 @@
 date = "2017-02-15T02:22:49-03:00"
 draft = false
 slug = "como-trabalhar-com-secrets-no-docker-1-13-x"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Docker","Secret","Senha","Segurança","Swarm"]
 title = "Como trabalhar com Secrets no Docker 1.13.x"
 +++

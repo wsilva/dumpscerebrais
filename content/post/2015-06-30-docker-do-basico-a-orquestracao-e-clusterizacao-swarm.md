@@ -1,7 +1,7 @@
 +++
 title = "Docker, do Básico a Orquestração e Clusterização - 6. Swarm"
 slug = "docker-do-basico-a-orquestracao-e-clusterizacao-swarm"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Swarm","Machine","Compose"]
 date = "2015-06-30T05:49:00-03:00"
 +++

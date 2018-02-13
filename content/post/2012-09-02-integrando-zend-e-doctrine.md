@@ -1,6 +1,6 @@
 +++
 title = "Integrando Zend e Doctrine"
-categorias = ["Tecnologia"]
+categories = ["Tecnologia"]
 tags = ["Doctrine","PHP","Zend"]
 date = "2012-09-02T18:05:00-03:00"
 +++
