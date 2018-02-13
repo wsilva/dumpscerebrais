@@ -42,10 +42,11 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     addsense_slot_posts = "2619233104"
 
     # Enable "Social" widget, if any of "social_*" set a value
-    social_facebook = "silva.tom"
+    # social_facebook = "silva.tom"
+    social_facebook = "livroaprendendodockers"
     social_twitter = "_wsilva"
     social_instagram = "_wsilva"
     social_linkedin = "wfsilva"
     social_github = "wsilva"
-    social_email = "wsilva@usp.br"
-    social_google_plus = "+WellingtonFigueiraSilva"
+    # social_email = "wsilva@usp.br"
+    # social_google_plus = "+WellingtonFigueiraSilva"
