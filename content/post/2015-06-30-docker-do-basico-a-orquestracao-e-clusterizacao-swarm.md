@@ -4,11 +4,12 @@ slug = "docker-do-basico-a-orquestracao-e-clusterizacao-swarm"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Swarm","Machine","Compose"]
 date = "2015-06-30T05:49:00-03:00"
+thumbnail = "/assets/images/docker-swarm.png"
 +++
 
 Nessa série de artigos estamos abordando tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
 
-<img class="img-responsive img-thumbnail pull-left" title="Swarm" alt="Swarm" src='/assets/images/docker-swarm.png' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Swarm" alt="Swarm" src='/assets/images/docker-swarm.png' /> -->
 
 O docker-swarm é uma ferramenta que nos possibilita através do docker-machine (que vimos no último artigo) juntar vários hosts de docker montando um como se fosse um grande cluster onde podemos rodar nossos containers com nossas aplicações dentro.
 

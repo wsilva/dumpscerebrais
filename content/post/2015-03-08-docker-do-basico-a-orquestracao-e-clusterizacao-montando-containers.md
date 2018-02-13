@@ -4,9 +4,10 @@ slug="docker-do-basico-a-orquestracao-e-clusterizacao-montando-containers"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Build"]
 date = "2015-03-07T23:57:00-03:00"
+thumbnail = "/assets/images/docker-uhu.jpg"
 +++
 
-<img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/docker-uhu.jpg' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/docker-uhu.jpg' /> -->
 Nessa série de artigos estamos abordando tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
 
 Dando continuidade ao artigo anterior vamos abordar a criação "on the fly" de containers para rodar sua aplicação, a criação utilizando receitas em arquivos Dockerfile e algumas dicas para montar um bom Dockerfile para sua aplicação.

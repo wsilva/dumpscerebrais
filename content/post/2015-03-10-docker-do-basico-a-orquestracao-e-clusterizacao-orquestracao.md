@@ -4,10 +4,11 @@ slug = "docker-do-basico-a-orquestracao-e-clusterizacao-orquestracao"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Fig","Build"]
 date = "2015-03-10T05:48:00-03:00"
+thumbnail = "/assets/images/thug-orchestra.jpg"
 +++
 
 Nessa série de artigos estamos abordando tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
-<img class="img-responsive img-thumbnail pull-left" title="Thug Orchestra" alt="Thug Orchestra" src='/assets/images/thug-orchestra.jpg' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Thug Orchestra" alt="Thug Orchestra" src='/assets/images/thug-orchestra.jpg' /> -->
 
 No artigo anterior abordamos duas maneiras de construir um container, algumas dicas para montagem e utilização. Agora nos perguntamos montamos um "containerzão" com todos os serviços que minha aplicação precisa para rodar ou montamos vários "containerzinhos" um para cada serviço da aplicação.
 

@@ -4,10 +4,11 @@ slug = "docker-do-basico-a-orquestracao-e-clusterizacao-basico"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers"]
 date = "2015-03-05T02:07:00-03:00"
+thumbnail = "/assets/images/lxc.png"
 +++
 
 Nessa série de artigos estamos abordando tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
-<img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/lxc.png' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/lxc.png' /> -->
 
 Dando continuidade ao artigo anterior com introdução sobre o que é docker e como funciona agora abordaremos como utilizar o Docker: baixar imagens, rodar containers, monitorar, versionar, manipular imagens criadas, criar imagens com base em arquivo com receitas (Dockerfiles), principais comandos e dicas de boas práticas baseando em dificuldades e gotchas que tenho enfrentado.
 

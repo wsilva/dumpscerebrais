@@ -3,12 +3,13 @@ title = "Apache versus Nginx"
 categories = ["Tecnologia"]
 tags = ["Apache","Fastcgi","LAMP","LEMP","Nginx","PHP","Benchmark"]
 date = "2012-11-06T00:46:00-03:00"
+thumbnail = "/assets/images/apache_vs_nginx.png"
 +++
 
 Depois de uma fase conturbada e sem artigos novos vamos retornar
 escrevendo um comparativo entre Nginx e Apache.
 
-<img class="img-responsive img-thumbnail" title="Apache vs Nginx" alt="Apache vs Nginx" src='/assets/images/apache_vs_nginx.png' />
+<!-- <img class="img-responsive img-thumbnail" title="Apache vs Nginx" alt="Apache vs Nginx" src='/assets/images/apache_vs_nginx.png' /> -->
 
 Para elaborar os testes criamos quatro arquivos de naturezas diferentes para
 serem servido pelo Apache e posteriormente pelo Nginx para que

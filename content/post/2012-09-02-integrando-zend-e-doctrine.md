@@ -3,6 +3,7 @@ title = "Integrando Zend e Doctrine"
 categories = ["Tecnologia"]
 tags = ["Doctrine","PHP","Zend"]
 date = "2012-09-02T18:05:00-03:00"
+thumbnail = "/assets/images/zend-downloads.png"
 +++
 
 Saudações.
@@ -19,7 +20,7 @@ deste artigo.
 [http://framework.zend.com/download/latest](http://framework.zend.com/download/latest) 
 (Versão estável na época 1.12.0);
 
-<img class="img-responsive img-thumbnail" title="Download Zend" alt="Download Zend" src='/assets/images/zend-downloads.png' />
+<!-- <img class="img-responsive img-thumbnail" title="Download Zend" alt="Download Zend" src='/assets/images/zend-downloads.png' /> -->
 
 - Baixamos o Doctrine no link
 [http://www.doctrine-project.org/projects/orm.html](http://www.doctrine-project.org/projects/orm.html) 

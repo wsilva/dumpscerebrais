@@ -4,10 +4,11 @@ slug = "docker-do-basico-a-orquestracao-e-clusterizacao-introducao"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Vagrant","Virtual Box","Cluster","Orquestração"]
 date = "2015-03-04T18:27:00-03:00"
+thumbnail = "/assets/images/docker-logo.jpg"
 +++
 
 Nessa série de artigos abordaremos tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
-<img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/docker-logo.jpg' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Docker Logo" alt="Docker Logo" src='/assets/images/docker-logo.jpg' /> -->
 
 Se você desenvolve ou desenvolveu para web deve ter esbarrado em problemas de configuração de ambiente ou padronização de ambientes para desenvolvedores, homologação e produção. Se pesquisou a respeito então provavelmente já ouviu falar sobre Docker, [Vagrant](https://www.vagrantup.com/), ou pelo menos [Virtualbox](https://www.virtualbox.org/).
 

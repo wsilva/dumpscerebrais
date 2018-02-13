@@ -4,11 +4,12 @@ slug = "docker-do-basico-a-orquestracao-e-clusterizacao-machine"
 categories = ["Tecnologia"]
 tags = ["Linux","Virtualização","Docker","Hub","Containers","Windows","MacOS","Boot2docker"]
 date = "2015-03-24T01:55:00-03:00"
+thumbnail = "/assets/images/ship-shipping-ships.jpg"
 +++
 
 Nessa série de artigos estamos abordando tópicos para uma boa utilização do [Docker](http://www.docker.com/) .
 
-<img class="img-responsive img-thumbnail pull-left" title="Ship shipping ships" alt="Ship shipping ships" src='/assets/images/ship-shipping-ships.jpg' />
+<!-- <img class="img-responsive img-thumbnail pull-left" title="Ship shipping ships" alt="Ship shipping ships" src='/assets/images/ship-shipping-ships.jpg' /> -->
 
 Para entender melhor a orquestração e antes de partirmos para a clusterização precisamos entender bem como usar o docker em nossa máquina de dia a dia, a nossa máquina dev, nosso ambiente de desenvolvimento.
 
