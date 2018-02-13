@@ -1,0 +1,16 @@
+{{- if .Site.Params.widgets.addsense }}
+<div class="widget-recent widget">
+    <h4 class="widget__title">Patrocinado</h4>
+    <div class="widget__content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- dumpscerebrais-lateral -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="{{ .Site.Params.widgets.addsense_client }}"
+             data-ad-slot="{{ .Site.Params.widgets.addsense_slot_sidebar }}"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+{{- end }}

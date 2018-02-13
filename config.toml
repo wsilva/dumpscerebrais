@@ -35,6 +35,10 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+    addsense = true
+    addsense_client = "ca-pub-7563279345079872"
+    addsense_slot_sidebar = "7049432702"
+    addsense_slot_posts = "2619233104"
 
     # Enable "Social" widget, if any of "social_*" set a value
     social_facebook = "silva.tom"

@@ -1,0 +1,14 @@
+{{- if .Site.Params.widgets.addsense }}
+<b>Patrocinado:</b>
+<div class="addsense row clearfix">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- dumpscerebrais-posts -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:320px;height:100px"
+         data-ad-client="{{ .Site.Params.widgets.addsense_client }}"
+         data-ad-slot="{{ .Site.Params.widgets.addsense_slot_posts }}"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+{{ end }}
