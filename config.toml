@@ -1,4 +1,4 @@
-baseurl = "dumpscerebrais.com"
+baseurl = "/"
 title = "Dumps Cerebrais"
 # languageCode = "en-us"
 languageCode = "pt-br"
@@ -27,6 +27,7 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     #postSections = ["blog", "news"] # alternative that shows more than one section's pages
     # dateformat = "2006-01-02" # change the format of dates
     dateformat = "02/jan/2006" # change the format of dates
+    fqdn = "dumpscerebrais.com"
 
 [Params.widgets]
     search = true # Enable "Search" widget

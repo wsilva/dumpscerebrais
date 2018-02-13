@@ -6,7 +6,7 @@
 			<input class="widget-search__field" type="search" placeholder="Buscar..." value="" name="q">
 		</label>
 		<input class="widget-search__submit" type="submit" value="Search">
-		<input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}" />
+		<input type="hidden" name="sitesearch" value="{{ .Site.Params.fqdn }}" />
 	</form>
 </div>
 {{- end }}
