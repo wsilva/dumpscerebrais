@@ -13,7 +13,7 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
 
 [Author] # Used in authorbox
     name = "Wellington F. Silva"
-    bio = "Conhecido como Boina, Tom e Wsilva entre outros apelidos. Possui certificações Docker Certified Associate e ZCE PHP 5.3, autor do livro Aprendendo Docker, do básico à orquestração de contêineres publicado pela editora Novatec. Docker community leader em São Paulo, tem background em telecomunicaçõeses, programação, VoIP, Linux e infraestrutura."
+    bio = "Conhecido como Boina, Tom e Wsilva entre outros apelidos. Possui certificações Docker Certified Associate e ZCE PHP 5.3, autor do livro Aprendendo Docker, do básico à orquestração de contêineres publicado pela editora Novatec. Docker Community Leader em São Paulo, tem background em telecomunicações, programação, VoIP, Linux e infraestrutura."
     avatar = "assets/images/tom-palestra.jpg"
 
 [Params]
