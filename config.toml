@@ -4,6 +4,7 @@ title = "Dumps Cerebrais"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
+# RSSLink = true
 disqusShortname = "dumpscerebrais" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tracking id
 
@@ -36,6 +37,7 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+    
     addsense = true
     addsense_client = "ca-pub-7563279345079872"
     addsense_slot_sidebar = "7049432702"
@@ -50,3 +52,29 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
     social_github = "wsilva"
     # social_email = "wsilva@usp.br"
     # social_google_plus = "+WellingtonFigueiraSilva"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -190
+[[menu.main]]
+  name = "Site Pessoal"
+  url = "http://wfsilva.com"
+  weight = -160
+[[menu.main]]
+  name = "Feed"
+  url = "/index.xml"
+  weight = -150
+# [[menu.main]]
+#   name = "Curso"
+#   url = "/curso/"
+#   weight = -180
+# [[menu.main]]
+#   name = "Livros"
+#   url = "/livro/"
+#   weight = -180
+[[menu.main]]
+  name = "Sobre"
+  url = "/sobre"
+  weight = -180
