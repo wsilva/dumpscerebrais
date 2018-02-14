@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/wsilva
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dumpscerebrais.com
+  * I am wsilva (https://keybase.io/wsilva) on keybase.
+  * I have a public key ASAQ3EkSDh8RRS1z7xi1mJpTzIw6NiIDDpFSFt9cU8kAQwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012010dc49120e1f11452d73ef18b5989a53cc8c3a3622030e915216df5c53c900430a",
+            "host": "keybase.io",
+            "kid": "012010dc49120e1f11452d73ef18b5989a53cc8c3a3622030e915216df5c53c900430a",
+            "uid": "de8062088f85a62dfdebe8591c44c619",
+            "username": "wsilva"
+        },
+        "service": {
+            "hostname": "dumpscerebrais.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473863053,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473862866,
+        "hash": "0fe46769183f72713bad088adb91b4081571004f6cd7e3f5f6ab65714df59b3b6430c7f3a118f8b69b4abb94805dd6300cec8e8719077f6cf6d86e07c249b6e8",
+        "seqno": 635815
+    },
+    "prev": "a0f93c508c8fb11cce9ad1711e465709b81b5a039beafd6501c95a0e15da2799",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgENxJEg4fEUUtc+8YtZiaU8yMOjYiAw6RUhbfXFPJAEMKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTBkYzQ5MTIwZTFmMTE0NTJkNzNlZjE4YjU5ODlhNTNjYzhjM2EzNjIyMDMwZTkxNTIxNmRmNWM1M2M5MDA0MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTBkYzQ5MTIwZTFmMTE0NTJkNzNlZjE4YjU5ODlhNTNjYzhjM2EzNjIyMDMwZTkxNTIxNmRmNWM1M2M5MDA0MzBhIiwidWlkIjoiZGU4MDYyMDg4Zjg1YTYyZGZkZWJlODU5MWM0NGM2MTkiLCJ1c2VybmFtZSI6IndzaWx2YSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZHVtcHNjZXJlYnJhaXMuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3Mzg2MzA1MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDczODYyODY2LCJoYXNoIjoiMGZlNDY3NjkxODNmNzI3MTNiYWQwODhhZGI5MWI0MDgxNTcxMDA0ZjZjZDdlM2Y1ZjZhYjY1NzE0ZGY1OWIzYjY0MzBjN2YzYTExOGY4YjY5YjRhYmI5NDgwNWRkNjMwMGNlYzhlODcxOTA3N2Y2Y2Y2ZDg2ZTA3YzI0OWI2ZTgiLCJzZXFubyI6NjM1ODE1fSwicHJldiI6ImEwZjkzYzUwOGM4ZmIxMWNjZTlhZDE3MTFlNDY1NzA5YjgxYjVhMDM5YmVhZmQ2NTAxYzk1YTBlMTVkYTI3OTkiLCJzZXFubyI6MTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA4YgsFIqRMs6rovVPVsxNZqngYPsnP42S6YXJVXp0V1beumFdOTq8LOpKpF4ASGPmCtcDX11kOUwLw5LCDcnFBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILjva+5lQkIgz9eSyrtQh728ORsM4Gk79KM5n9/uM5Sko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wsilva
+
+==================================================================

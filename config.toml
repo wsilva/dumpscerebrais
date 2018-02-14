@@ -45,7 +45,7 @@ googleAnalytics = "UA-36355678-1" # Enable Google Analytics by entering your tra
 
     # Enable "Social" widget, if any of "social_*" set a value
     # social_facebook = "silva.tom"
-    social_facebook = "livroaprendendodockers"
+    social_facebook = "livroaprendendodocker"
     social_twitter = "_wsilva"
     social_instagram = "_wsilva"
     social_linkedin = "wfsilva"
