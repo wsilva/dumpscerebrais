@@ -5,6 +5,7 @@ slug = ""
 categories = ["Tecnologia"]
 tags = ["Linux","Bash","Docker", "Machine", "Compose", "Auto-complete"]
 title = "Auto complete para Docker Engine, Machine e Compose"
+lastmod = "2018-02-18T02:29:00-03:00"
 +++
 
 
@@ -42,7 +43,7 @@ O processo é simples, estando no Mac OS X temos que instalar o auto completion 
 $ brew install bash-completion
 ```
 
-E em seguida adicionar as linhas em nosso arquivo de profile ($HOME/.bash_profile ou /Users/<seu usuário>/.bash_profile)
+E em seguida adicionar as linhas em nosso arquivo de profile ($HOME/.bash_profile ou /Users/\<seu usuário\>/.bash_profile)
 
 ```
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
@@ -76,21 +77,23 @@ $ sudo yum install bash-completion
 
 ## Completion do Docker Engine
 
-O arquivo está disponível em https://github.com/docker/docker/blob/master/contrib/completion/bash/docker
+O arquivo está disponível em ~~https://github.com/docker/docker/blob/master/contrib/completion/bash/docker~~
+(atualizado em fev/2018)
+https://github.com/docker/cli/blob/master/contrib/completion/bash/docker
 portanto sempre que fizer uma atualização é bom baixar novamente esse arquivo para refletir os comandos e parâmetros novos disponibilizados pelo Docker.
 
 Ao baixar devemos colocá-lo na pasta  `/etc/bash_completion.d/` se estivermos no Linux ou devemos acrescentar a pasta do homebrew antes se estivermos em um Mac OS X: `$(brew --prefix)/etc/bash_completion.d`.
 
 ### No Mac OS X
-
+(atualizado fev/2018)
 ```
-$ curl -L https://raw.githubusercontent.com/docker/docker/master/contrib/completion/bash/docker > $(brew --prefix)/etc/bash_completion.d/docker
+$ curl -L https://raw.githubusercontent.com/docker/cli/master/contrib/completion/bash/docker > $(brew --prefix)/etc/bash_completion.d/docker
 ```
 
 ### No Linux
-
+(atualizado fev/2018)
 ```
-$ curl -L https://raw.githubusercontent.com/docker/docker/master/contrib/completion/bash/docker > /etc/bash_completion.d/docker
+$ curl -L https://raw.githubusercontent.com/docker/cli/master/contrib/completion/bash/docker > /etc/bash_completion.d/docker
 ```
 
 ## Completion do Docker Compose
@@ -143,17 +146,43 @@ unset machineVersion
 
 ## Considerações
 
+(atualizado fev/2018)
+### Mas eu instalei o Docker for Mac
+
+Atualmente o Docker for Mac já tem trazido os arquivos de completion juntos na instalação, não precisamos baixar nada como mostramos acima, basta criarmos os links simbólicos de cada um dos arquivos para dentro da pasta do bash completion.
+```
+$ cd $(brew --prefix)/etc/bash_completion.d
+$ ln -s /Applications/Docker.app/Contents/Resources/etc/docker.bash-completion
+$ ln -s /Applications/Docker.app/Contents/Resources/etc/docker-machine.bash-completion
+$ ln -s /Applications/Docker.app/Contents/Resources/etc/docker-compose.bash-completion
+```
+
+
 ### Versões diferentes
 
-Se você utilizar alguma versão específica de uma dessas ferramentas basta baixar os arquivos da pasta correspondente. 
+~~Se você utilizar alguma versão específica de uma dessas ferramentas basta baixar os arquivos da pasta correspondente.~~ 
 
-Por exemplo o docker engine, da maneira que mostramos vamos pegar o arquivo que está na branch *master*, atualmente *versão 1.12.1*, para pegar na *versão 1.11.0* por exemplo o arquivo fica em https://github.com/docker/docker/blob/v1.11.0/contrib/completion/bash/docker
+~~Por exemplo o docker engine, da maneira que mostramos vamos pegar o arquivo que está na branch *master*, atualmente *versão 1.12.1*, para pegar na *versão 1.11.0* por exemplo o arquivo fica em https://github.com/docker/docker/blob/v1.11.0/contrib/completion/bash/docker~~
+
+(atualizado em fev/2018)
+
+O repo agora é em https://github.com/docker/cli e não temos mais as tags e branches por versão.
 
 ### Utilizo outro shell
 
-O Docker disponibiliza alguns arquivos de completion para outros shells. O Docker Engine disponibiliza *bash*, *zsh*, *fish* e *powershell* como podemos ver em https://github.com/docker/docker/tree/master/contrib/completion .
+O Docker disponibiliza alguns arquivos de completion para outros shells. O Docker Engine disponibiliza *bash*, *zsh*, *fish* e *powershell* como podemos ver em ~~https://github.com/docker/docker/tree/master/contrib/completion~~ https://github.com/docker/cli/tree/master/contrib/completion.
 
-O Docker Compose e o Docker Machine disponibilizam apenas para *bash* e *zsh*  como vemos nas urls https://github.com/docker/compose/tree/master/contrib/completion e https://github.com/docker/machine/tree/master/contrib/completion .
+O Docker Machine disponibilizam apenas para *bash* e *zsh* e o Compose disponibiliza para *bash*, *fish* e *zsh* como vemos nas urls https://github.com/docker/compose/tree/master/contrib/completion e https://github.com/docker/machine/tree/master/contrib/completion.
+
+### Utilizo Windows
+
+Para usuários fãs de rodar contêineres no Windows a Docker recomenda esses dois caras:
+ - https://github.com/matt9ucci/DockerCompletion
+ - https://github.com/samneirinck/posh-docker
+
+Nos arquivos README de cada repositório temos as instruções de instalação e pré-requisitos para cada um deles. Escolha um, instale e use.
+
+Mais instruções aqui: https://docs.docker.com/docker-for-windows/#set-up-tab-completion-in-powershell
 
 ### Demo
 
