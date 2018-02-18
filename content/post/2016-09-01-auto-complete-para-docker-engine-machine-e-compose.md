@@ -177,8 +177,9 @@ O Docker Machine disponibilizam apenas para *bash* e *zsh* e o Compose disponibi
 ### Utilizo Windows
 
 Para usuários fãs de rodar contêineres no Windows a Docker recomenda esses dois caras:
- - https://github.com/matt9ucci/DockerCompletion
- - https://github.com/samneirinck/posh-docker
+ 
+- https://github.com/matt9ucci/DockerCompletion 
+- https://github.com/samneirinck/posh-docker
 
 Nos arquivos README de cada repositório temos as instruções de instalação e pré-requisitos para cada um deles. Escolha um, instale e use.
 
