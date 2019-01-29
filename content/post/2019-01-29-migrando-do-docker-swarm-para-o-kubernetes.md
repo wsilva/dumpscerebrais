@@ -3,7 +3,7 @@ date: 2019-01-28T07:05:00-03:00
 draft: false
 slug: "migrando-do-docker-swarm-para-o-kubernetes"
 categories: ["Tecnologia"]
-tags: ["Docker","Swarm","Kubernetes"]
+tags: ["Docker","Swarm","Kubernetes", "Compose"]
 title: "Migrando do Docker Swarm para o Kubernetes"
 thumbnail: "/assets/images/swarm-vs-k8s.png"
 ---
